@@ -1,3 +1,18 @@
+# Project Contribution
+
+I have Worked on CRUD Operation of Room Booking Both front-end and Backend
+
+The email notifucation feature to User Regarding Room Booking
+
+CRUD Operation for Rooms(Room Listing),Reviews,Room Images,Hotels.
+
+
+Validation for Frontend Forms, Also the date check functionality , room availability check functionality, dynamically calculating room price based on number of days room booked.
+
+Also Designed Schema's for Rooms, Bookings, Hotels,Reviews , Users, Room Images where one or two table are connected based on the object Id.
+
+
+
 # RoomBooking
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
